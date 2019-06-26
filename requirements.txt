@@ -62,7 +62,6 @@ plaster-pastedeploy==0.7
 pmdarima==1.2.0
 prompt-toolkit==1.0.15
 protobuf==3.5.2.post1
-pybrain==0.3.3
 pycparser==2.19
 Pygments==2.2.0
 pyparsing==2.2.0
